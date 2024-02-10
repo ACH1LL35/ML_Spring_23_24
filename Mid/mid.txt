@@ -1,1 +1,4 @@
+This folder conatins all the class performence and assignments of ML [C]_spring 23-24_Mid Term
 
+
+--readme--

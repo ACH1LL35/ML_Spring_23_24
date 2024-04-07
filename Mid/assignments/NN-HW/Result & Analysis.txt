@@ -1,23 +1,15 @@
 Performance Analysis:
----------------------
 
-The neural network achieved decent performance in classifying the synthetic dataset with five distinct classes.
-Here are some observations and insights gained from the experiment:
+The neural network achieved decent performance in classifying the synthetic dataset with five distinct classes. Here are some observations and insights gained from the experiment:
 
-1. Accuracy: The accuracy of the model on the test set was reasonably high, indicating that the model was able to effectively
-classify the input features into the correct classes.
+1. Accuracy: The accuracy of the model on the test set was reasonably high, indicating that the model was able to effectively classify the input features into the correct classes.
 
-2. Training Loss: The training loss decreased steadily over epochs, indicating that the model was learning from the training data
-and minimizing the loss function.
+2. Training Loss: The training loss decreased steadily over epochs, indicating that the model was learning from the training data and minimizing the loss function.
 
-3. Test Accuracy: The test accuracy was comparable to the training accuracy, suggesting that the model generalized well to unseen
-data and did not overfit.
+3. Test Accuracy: The test accuracy was comparable to the training accuracy, suggesting that the model generalized well to unseen data and did not overfit.
 
-4. Confusion Matrix: The confusion matrix provided insights into the specific classes where the model may have struggled.
-It showed how many instances from each true class were classified into each predicted class.
+4. Confusion Matrix: The confusion matrix provided insights into the specific classes where the model may have struggled. It showed how many instances from each true class were classified into each predicted class.
 
-5. Hyperparameter Tuning: Experimenting with different configurations and hyperparameters, such as the number of hidden layers,
-the number of neurons in each hidden layer, and the learning rate, could further improve the performance of the model.
+5. Hyperparameter Tuning: Experimenting with different configurations and hyperparameters, such as the number of hidden layers, the number of neurons in each hidden layer, and the learning rate, could further improve the performance of the model.
 
-Overall, the neural network demonstrated promising performance in classifying the dataset, but further optimization and
-experimentation may be beneficial for fine-tuning the model and achieving even better results.
+Overall, the neural network demonstrated promising performance in classifying the dataset, but further optimization and experimentation may be beneficial for fine-tuning the model and achieving even better results.
